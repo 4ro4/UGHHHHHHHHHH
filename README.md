@@ -1,2 +1,2 @@
-# HS
+# school repository 
 For school
